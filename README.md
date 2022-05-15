@@ -141,7 +141,7 @@ This project demonstrates handling real-world automation challenges:
 
 **Babusingh Kushwaha**
 Project Associate, CSIR-NEERI Nagpur
-Software Testing (Manual + Automation) | Data Analytics
+Software Testing (Manual + Automation)
 
 [![GitHub](https://img.shields.io/badge/GitHub-babuhkush715--arch-blue)](https://github.com/babuhkush715-arch)
 
