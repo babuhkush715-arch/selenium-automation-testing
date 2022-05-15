@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-30T15:21:51 IST" name="ParaBank Automation Suite" finished-at="2026-06-30T15:22:40 IST" duration-ms="49192">
+    <groups>
+    </groups>
+    <test started-at="2026-06-30T15:21:51 IST" name="OrangeHRM Login Tests" finished-at="2026-06-30T15:22:10 IST" duration-ms="19350">
+      <class name="com.parabank.automation.OrangeHRMLoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.parabank.automation.OrangeHRMLoginTest@402bba4f]" started-at="2026-06-30T15:21:51 IST" name="setUp" finished-at="2026-06-30T15:21:56 IST" duration-ms="5321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testValidLogin()[pri:1, instance:com.parabank.automation.OrangeHRMLoginTest@402bba4f]" started-at="2026-06-30T15:21:56 IST" name="testValidLogin" finished-at="2026-06-30T15:21:59 IST" duration-ms="3227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabank.automation.OrangeHRMLoginTest@402bba4f]" started-at="2026-06-30T15:21:59 IST" name="tearDown" finished-at="2026-06-30T15:21:59 IST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.parabank.automation.OrangeHRMLoginTest@402bba4f]" started-at="2026-06-30T15:21:59 IST" name="setUp" finished-at="2026-06-30T15:22:03 IST" duration-ms="4038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testInvalidLogin()[pri:2, instance:com.parabank.automation.OrangeHRMLoginTest@402bba4f]" started-at="2026-06-30T15:22:03 IST" name="testInvalidLogin" finished-at="2026-06-30T15:22:05 IST" duration-ms="1784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabank.automation.OrangeHRMLoginTest@402bba4f]" started-at="2026-06-30T15:22:05 IST" name="tearDown" finished-at="2026-06-30T15:22:05 IST" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.parabank.automation.OrangeHRMLoginTest@402bba4f]" started-at="2026-06-30T15:22:05 IST" name="setUp" finished-at="2026-06-30T15:22:09 IST" duration-ms="4157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testEmptyUsername()[pri:3, instance:com.parabank.automation.OrangeHRMLoginTest@402bba4f]" started-at="2026-06-30T15:22:09 IST" name="testEmptyUsername" finished-at="2026-06-30T15:22:10 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmptyUsername -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabank.automation.OrangeHRMLoginTest@402bba4f]" started-at="2026-06-30T15:22:10 IST" name="tearDown" finished-at="2026-06-30T15:22:10 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.parabank.automation.OrangeHRMLoginTest -->
+    </test> <!-- OrangeHRM Login Tests -->
+    <test started-at="2026-06-30T15:22:10 IST" name="Shopping Site Tests" finished-at="2026-06-30T15:22:40 IST" duration-ms="29808">
+      <class name="com.parabank.automation.ShoppingSiteTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.parabank.automation.ShoppingSiteTest@35d019a3]" started-at="2026-06-30T15:22:10 IST" name="setUp" finished-at="2026-06-30T15:22:13 IST" duration-ms="3083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testValidLogin()[pri:1, instance:com.parabank.automation.ShoppingSiteTest@35d019a3]" started-at="2026-06-30T15:22:13 IST" name="testValidLogin" finished-at="2026-06-30T15:22:17 IST" duration-ms="3498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabank.automation.ShoppingSiteTest@35d019a3]" started-at="2026-06-30T15:22:17 IST" name="tearDown" finished-at="2026-06-30T15:22:17 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.parabank.automation.ShoppingSiteTest@35d019a3]" started-at="2026-06-30T15:22:17 IST" name="setUp" finished-at="2026-06-30T15:22:18 IST" duration-ms="1758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testInvalidLoginAlert()[pri:2, instance:com.parabank.automation.ShoppingSiteTest@35d019a3]" started-at="2026-06-30T15:22:18 IST" name="testInvalidLoginAlert" finished-at="2026-06-30T15:22:21 IST" duration-ms="2216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidLoginAlert -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabank.automation.ShoppingSiteTest@35d019a3]" started-at="2026-06-30T15:22:21 IST" name="tearDown" finished-at="2026-06-30T15:22:21 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.parabank.automation.ShoppingSiteTest@35d019a3]" started-at="2026-06-30T15:22:21 IST" name="setUp" finished-at="2026-06-30T15:22:23 IST" duration-ms="2236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testProductNavigationByXPath()[pri:3, instance:com.parabank.automation.ShoppingSiteTest@35d019a3]" started-at="2026-06-30T15:22:23 IST" name="testProductNavigationByXPath" finished-at="2026-06-30T15:22:26 IST" duration-ms="2613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductNavigationByXPath -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabank.automation.ShoppingSiteTest@35d019a3]" started-at="2026-06-30T15:22:26 IST" name="tearDown" finished-at="2026-06-30T15:22:26 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.parabank.automation.ShoppingSiteTest@35d019a3]" started-at="2026-06-30T15:22:26 IST" name="setUp" finished-at="2026-06-30T15:22:28 IST" duration-ms="2300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCartPageNavigation()[pri:4, instance:com.parabank.automation.ShoppingSiteTest@35d019a3]" started-at="2026-06-30T15:22:28 IST" name="testCartPageNavigation" finished-at="2026-06-30T15:22:33 IST" duration-ms="4613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCartPageNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabank.automation.ShoppingSiteTest@35d019a3]" started-at="2026-06-30T15:22:33 IST" name="tearDown" finished-at="2026-06-30T15:22:33 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.parabank.automation.ShoppingSiteTest@35d019a3]" started-at="2026-06-30T15:22:33 IST" name="setUp" finished-at="2026-06-30T15:22:35 IST" duration-ms="2423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddToCart()[pri:5, instance:com.parabank.automation.ShoppingSiteTest@35d019a3]" started-at="2026-06-30T15:22:35 IST" name="testAddToCart" finished-at="2026-06-30T15:22:40 IST" duration-ms="4240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabank.automation.ShoppingSiteTest@35d019a3]" started-at="2026-06-30T15:22:40 IST" name="tearDown" finished-at="2026-06-30T15:22:40 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.parabank.automation.ShoppingSiteTest -->
+    </test> <!-- Shopping Site Tests -->
+  </suite> <!-- ParaBank Automation Suite -->
+</testng-results>
